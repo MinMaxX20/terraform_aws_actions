@@ -1,8 +1,8 @@
 #-------------------------------------------------------
 
 provider "aws" {
-  access_key = "AKIAYG5FYVWISJ3MCG4Q"
-  secret_key = "g9+BY/GvOHvtrTiD6XAvwdu/Ok5Ktt/KO/TxsM"
+  access_key = ""
+  secret_key = ""
   region     = "eu-central-1"
 }
 #доступні зони
